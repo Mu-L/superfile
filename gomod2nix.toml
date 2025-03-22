@@ -32,8 +32,8 @@ schema = 3
     version = "v0.20.0"
     hash = "sha256-p5jmxDfH9vEWsafg1lB7HBTUSysXrTGymTThFYClrOE="
   [mod."github.com/charmbracelet/bubbletea"]
-    version = "v1.3.3"
-    hash = "sha256-UNy50mWeDR6OinV7dIuQDkKEaBqfjMKWZDyJC/BlhPo="
+    version = "v1.3.4"
+    hash = "sha256-V9qeiPyzSAo/VDJOj4f2wP55C27kAun/f6SFT2/NkEo="
   [mod."github.com/charmbracelet/harmonica"]
     version = "v0.2.0"
     hash = "sha256-fi5N0IXhSbbYHdSZFngCfpT4kdiEaKedqj8YpnlvX0o="
@@ -116,8 +116,8 @@ schema = 3
     version = "v0.3.0"
     hash = "sha256-Pou2ybE9SFSZG6YfZLVV1Eyfm+X4FuVpDPLxhpn47Cc="
   [mod."github.com/muesli/termenv"]
-    version = "v0.15.2"
-    hash = "sha256-Eum/SpyytcNIchANPkG4bYGBgcezLgej7j/+6IhqoMU="
+    version = "v0.16.0"
+    hash = "sha256-hGo275DJlyLtcifSLpWnk8jardOksdeX9lH4lBeE3gI="
   [mod."github.com/nfnt/resize"]
     version = "v0.0.0-20180221191011-83c6a9932646"
     hash = "sha256-yvPV+HlDOyJsiwAcVHQkmtw8DHSXyw+cXHkigXm8rAA="
@@ -161,8 +161,8 @@ schema = 3
     version = "v0.5.11"
     hash = "sha256-SUyrjc2wyN3cTGKe5JdBEXjtZC1rJySRxJHVUZ59row="
   [mod."github.com/urfave/cli/v2"]
-    version = "v2.27.5"
-    hash = "sha256-b/mERhhQ7CHxVEyf2QXfVnZut9pgMMVgL4zs2Wh9s4A="
+    version = "v2.27.6"
+    hash = "sha256-u4yUgMwphs/7iwkhWrLgsHZru1InycgvY2ZmuxHQeLI="
   [mod."github.com/xrash/smetrics"]
     version = "v0.0.0-20240521201337-686a1a2994c1"
     hash = "sha256-CsyN59w6sKERDI5kkdpq0YKmqdixyCHuN4FYE/56/BQ="
@@ -179,8 +179,8 @@ schema = 3
     version = "v0.18.0"
     hash = "sha256-g9N/y4asXG1lctPJ1KEf8XIjeJi/mQ43EXUa8HTj/zQ="
   [mod."golang.org/x/mod"]
-    version = "v0.23.0"
-    hash = "sha256-8mlTcEyJy1ETxCO4g7RjZ4Z5nJvXRNwKLwAOoe2GChI="
+    version = "v0.24.0"
+    hash = "sha256-Lrl4RzOO0J/S5E+AQ7Y6yh8B9yygvZ2W0fsKEtBSYNU="
   [mod."golang.org/x/sync"]
     version = "v0.11.0"
     hash = "sha256-5ZBfDJvNaUBM4Vhk0fgYblCGL3eBxiJL85nIE8LiKl0="
